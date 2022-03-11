@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDavMine", "RDavMine.csproj", "{3C0299A8-852D-4A67-B2D1-B0716B240776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C0299A8-852D-4A67-B2D1-B0716B240776}.Debug|x64.ActiveCfg = Debug|x64
+		{3C0299A8-852D-4A67-B2D1-B0716B240776}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0165C15B-5F80-4DA5-AC15-7C29CDED2F56}
+	EndGlobalSection
+EndGlobal
